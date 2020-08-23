@@ -6,5 +6,6 @@ public class Converter {
         System.out.println("Welcome to Jenkins");
         System.out.println("Webhook Test");
         System.out.println("Hook Again");
+        System.out.println("Poll SCM");
     }
 }
